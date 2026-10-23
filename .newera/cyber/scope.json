@@ -1,1 +1,15 @@
-{"targets":["text.pollinations.ai","image.pollinations.ai","gen.pollinations.ai","enter.pollinations.ai","*.pollinations.ai","127.0.0.1"]}
+{
+  "targets": [
+    "https://gen.pollinations.ai",
+    "https://enter.pollinations.ai",
+    "https://github.com/pollinations/pollinations"
+  ],
+  "authorization": {
+    "granted_by": "user (cloud takeover brief)",
+    "note": "Testing API key provided by user: sk_eM0BezFSREukwtH6G6YQBi3z04hy2hCy (used only for live verification). Read-only, non-destructive probes only. No PRs to upstream repo."
+  },
+  "constraints": [
+    "No destructive actions: no deletion of user data, no mass-fan-out, no costing the provider money beyond minimal probe traffic.",
+    "No PRs to the official repository. Findings written only to issue1.md / issue2.md in this VM's working repo."
+  ]
+}
