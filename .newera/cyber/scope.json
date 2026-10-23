@@ -1,13 +1,10 @@
 {
   "targets": [
-    "gen.pollinations.ai",
-    "text.pollinations.ai",
-    "enter.pollinations.ai",
-    "image.pollinations.ai",
-    "*.pollinations.ai"
+    "https://gen.pollinations.ai",
+    "https://enter.pollinations.ai",
+    "https://staging.gen.pollinations.ai",
+    "https://staging.enter.pollinations.ai"
   ],
-  "engagement": "Pollinations AI — authorized security assessment (task new-project-d43zq)",
-  "keys": {
-    "test_api_key": "sk_eM0BezFSREukwtH6G6YQBi3z04hy2hCy"
-  }
+  "apiKey": "sk_eM0BezFSREukwtH6G6YQBi3z04hy2hCy",
+  "notes": "User-provided testing API key for pollinations. Authorized testing only; no harm, no PRs to upstream."
 }
