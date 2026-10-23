@@ -1,10 +1,1 @@
-{
-  "targets": [
-    "https://gen.pollinations.ai",
-    "https://enter.pollinations.ai",
-    "https://staging.gen.pollinations.ai",
-    "https://staging.enter.pollinations.ai"
-  ],
-  "apiKey": "sk_eM0BezFSREukwtH6G6YQBi3z04hy2hCy",
-  "notes": "User-provided testing API key for pollinations. Authorized testing only; no harm, no PRs to upstream."
-}
+{"targets":["text.pollinations.ai","image.pollinations.ai","gen.pollinations.ai","enter.pollinations.ai","*.pollinations.ai","127.0.0.1"]}
