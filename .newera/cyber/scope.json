@@ -1,0 +1,13 @@
+{
+  "targets": [
+    "gen.pollinations.ai",
+    "text.pollinations.ai",
+    "enter.pollinations.ai",
+    "image.pollinations.ai",
+    "*.pollinations.ai"
+  ],
+  "engagement": "Pollinations AI — authorized security assessment (task new-project-d43zq)",
+  "keys": {
+    "test_api_key": "sk_eM0BezFSREukwtH6G6YQBi3z04hy2hCy"
+  }
+}
